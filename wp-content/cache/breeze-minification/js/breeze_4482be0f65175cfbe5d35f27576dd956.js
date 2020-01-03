@@ -1,0 +1,1 @@
+var woocommerce_params={"ajax_url":"\/wp-admin\/admin-ajax.php?lang=zh-hant","wc_ajax_url":"\/zh-hant\/?wc-ajax=%%endpoint%%"};

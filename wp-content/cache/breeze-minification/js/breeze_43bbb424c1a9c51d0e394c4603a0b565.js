@@ -1,0 +1,1 @@
+var wc_add_to_cart_params={"ajax_url":"\/wp-admin\/admin-ajax.php?lang=pt-pt","wc_ajax_url":"\/pt-pt\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrinho","cart_url":"https:\/\/epi-age.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};

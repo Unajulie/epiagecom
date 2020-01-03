@@ -1,0 +1,1 @@
+var wc_add_to_cart_params={"ajax_url":"\/wp-admin\/admin-ajax.php?lang=ru","wc_ajax_url":"\/ru\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u043a\u043e\u0440\u0437\u0438\u043d\u044b","cart_url":"https:\/\/epi-age.com\/ru\/%d0%ba%d0%be%d1%80%d0%b7%d0%b8%d0%bd%d0%b0\/","is_cart":"","cart_redirect_after_add":"yes"};

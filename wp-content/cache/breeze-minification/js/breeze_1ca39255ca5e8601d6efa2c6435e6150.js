@@ -1,0 +1,1 @@
+var woocommerce_params={"ajax_url":"\/wp-admin\/admin-ajax.php?lang=ru","wc_ajax_url":"\/ru\/checkout-page\/?wc-ajax=%%endpoint%%"};

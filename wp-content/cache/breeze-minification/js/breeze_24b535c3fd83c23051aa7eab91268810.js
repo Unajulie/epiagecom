@@ -1,0 +1,1 @@
+var actions={"is_lang_switched":"1","force_reset":"0"};

@@ -1,0 +1,1 @@
+var mailchimp_public_data={"site_url":"https:\/\/epi-age.com","ajax_url":"https:\/\/epi-age.com\/wp-admin\/admin-ajax.php"};

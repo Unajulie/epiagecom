@@ -1,0 +1,1 @@
+var gf_global={"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/epi-age.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/epi-age.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};

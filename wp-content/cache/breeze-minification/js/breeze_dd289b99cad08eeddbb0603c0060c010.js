@@ -1,0 +1,1 @@
+var wpml_cookies={"_icl_current_language":{"value":"zh-hant","expires":1,"path":"\/"}};var wpml_cookies={"_icl_current_language":{"value":"zh-hant","expires":1,"path":"\/"}};

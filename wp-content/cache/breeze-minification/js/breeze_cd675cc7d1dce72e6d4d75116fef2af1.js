@@ -1,0 +1,1 @@
+var wc_add_to_cart_params={"ajax_url":"\/wp-admin\/admin-ajax.php?lang=zh-hant","wc_ajax_url":"\/zh-hant\/?wc-ajax=%%endpoint%%","i18n_view_cart":"\u67e5\u770b\u8cfc\u7269\u8eca","cart_url":"https:\/\/epi-age.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};

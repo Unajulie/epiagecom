@@ -1,0 +1,1 @@
+jQuery('#request').val('');

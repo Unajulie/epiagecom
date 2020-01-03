@@ -1,0 +1,1 @@
+var ms_grabbing_curosr='https://epi-age.com/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='https://epi-age.com/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';
